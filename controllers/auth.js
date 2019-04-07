@@ -11,11 +11,11 @@ var transporter = nodemailer.createTransport(
   sendgridTransport({
     auth: {
       api_key:
-        "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"
+        ""
     }
   })
 );
-//   sparkPostApiKey: "29de518a263f39a1b42410e6d626e23bf24d0fd0"
+//   sparkPostApiKey: ""
 // })
 // );
 
